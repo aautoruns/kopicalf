@@ -106,7 +106,7 @@ body {
 
 .hero .content p {
   font-family: 'La Belle Aurore', cursive;
-  font-size: 1.5rem;
+  font-size: 3rem;
   margin-top: 1rem;
   line-height: 1.5;
   font-weight: 100;
@@ -120,7 +120,7 @@ body {
   line-height: 1;
   color: white;
   background-color: var(--primary);
-  border-radius: 5rem;
+  border-radius: 2rem;
 }
 
 .hero .content h1 span {
@@ -243,8 +243,8 @@ body {
   align-items: center;
   margin-top: 2rem;
   color: var(--primary);
-  background-color: rgba(255, 255, 255, 0.219);
-  border: 2px solid rgba(0, 0, 0, 0.258);
+  background-color: rgba(255, 255, 255, 0.028);
+  border: 2px solid rgba(12, 48, 147, 0.178);
   padding-left: 2rem;
 }
 .contact .row form .input-group input {
