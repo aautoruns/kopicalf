@@ -56,19 +56,6 @@ body {
   color: var(--primary);
 }
 
-.navbar .navbar-nav a::after {
-  content: '';
-  display: block;
-  padding-bottom: 0.1rem;
-  border-bottom: 0.2rem solid crimson;
-  transform: scaleX(0);
-  transition: 0.2s linear;
-}
-
-.navbar .navbar-nav a:hover::after {
-  transform: scaleX(0.5);
-}
-
 .navbar .navbar-extra a {
   color: black;
   margin: 0 0.5rem;
