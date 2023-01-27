@@ -61,10 +61,6 @@ body {
   margin: 0 0.5rem;
 }
 
-.navbar .navbar-extra a:hover {
-  color: crimson;
-}
-
 #hamburger-menu {
   display: none;
 }
