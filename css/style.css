@@ -337,12 +337,6 @@ footer .credit a {
     padding: 0.5rem;
     font-size: 1.7rem;
   }
-  .navbar .navbar-nav a::after {
-    transform-origin: 0 0;
-  }
-  .navbar .navbar-nav a:hover::after {
-    transform: scaleX(0.2);
-  }
   .navbar .navbar-nav button {
     height: 9vh;
     border-radius: 0 0 0 8px;
