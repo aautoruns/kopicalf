@@ -1,6 +1,6 @@
 <div align="justify">
   
-<h2>Kopi CALF - Coffee & Milkbar ☕🥛</h2>
+<h2>Kopi CALF ☕</h2>
 <a href="https://www.instagram.com/kopicalf/">
     <img src="https://img.shields.io/badge/Instagram-6919ff?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
