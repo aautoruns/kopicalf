@@ -4,7 +4,7 @@
 <a href="https://www.instagram.com/kopicalf/">
     <img src="https://img.shields.io/badge/Instagram-6919ff?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
-<a href="hhttps://aautoruns.github.io/kopicalf/">
+<a href="https://aautoruns.github.io/kopicalf/">
     <img src="https://img.shields.io/badge/Demo Website-252525?style=for-the-badge&logo=github&logoColor=white" target="_blank">
 </a>
 
